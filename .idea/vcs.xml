@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_19_buttons/buttons_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_20_navigations/navigation_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_21_video_player/vid_player_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_22_chool_check/chool_check_temnplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_23_future_builder_and_stream_builder/future_and_stream_builder_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_24_video_call/video_call_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_26_calendar_scheduler/calendar_scheduler_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_27_scrollable_widgets/scrollable_widgets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_6_splash_screen/splash_screen_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_7_row_and_column/row_and_column_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/section_9_webview/web_view_template" vcs="Git" />
+  </component>
+</project>
